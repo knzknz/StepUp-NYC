@@ -24,11 +24,15 @@ CocoaPods is a dependency manager for Cocoa projects. You can install it with th
 `$ sudo gem install cocoapods`
 
 ### Dependencies
-- [Alamofire](https://github.com/Alamofire/Alamofire)
 - [SnapKit](http://snapkit.io/docs)
 - [KingFisher](https://github.com/onevcat/Kingfisher)
+- [expanding-collection](https://github.com/Ramotion/expanding-collection)
+- [FAQView](https://github.com/mukeshthawani/FAQView)
+- [Toucan](https://github.com/gavinbunney/Toucan)
 - [Firebase](https://firebase.google.com)
 	- Firebase/Database
+	- Firebase/Storage
+	- Firebase/Core
 
 ### How to Install Pods
 To integrate these pods into your Xcode project using CocoaPods, specify it in your Podfile:
@@ -50,7 +54,7 @@ Then, run the following command in Terminal:
 `$ pod install`
 
 ## Contributors 
-* **Kaniz Ali** - [Github]()
-* **Marlon** - [Github]()
-* **Tristan** - [Github]()
+* **Kaniz Ali** - [Github](https://github.com/knzknz)
+* **Marlon** - [Github](https://github.com/mrugama)
+* **Tristan** - [Github](https://github.com/Tristifano)
 * **Maryann** - [Github]()
