@@ -28,8 +28,6 @@ CocoaPods is a dependency manager for Cocoa projects. You can install it with th
 - [SnapKit](http://snapkit.io/docs)
 - [KingFisher](https://github.com/onevcat/Kingfisher)
 - [Firebase](https://firebase.google.com)
-	- Firebase/Core
-	- Firebase/Auth
 	- Firebase/Database
 
 ### How to Install Pods
