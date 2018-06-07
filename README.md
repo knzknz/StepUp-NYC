@@ -4,8 +4,8 @@
 ## Overview
 An app for NYC Junior High School students interested in accessing information on the competitive specialized High Schools in the City
 
-##GIFs
-|<a href="https://imgflip.com/gif/2bsue1"><img src="https://i.imgflip.com/2bsue1.gif"/></a>
+## App GIFs
+<a href="https://imgflip.com/gif/2bsue1"><img src="https://i.imgflip.com/2bsue1.gif"/></a>
 <a href="https://imgflip.com/gif/2bsvhh"><img src="https://i.imgflip.com/2bsvhh.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/2bsw2n"><img src="https://i.imgflip.com/2bsw2n.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/2bsw6e"><img src="https://i.imgflip.com/2bsw6e.gif" title="made at imgflip.com"/></a>
