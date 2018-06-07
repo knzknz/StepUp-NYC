@@ -6,7 +6,8 @@ An app for NYC Junior High School students interested in accessing information o
 
 |School Search|
 |:-------------:|
-|<img src="https://media.giphy.com/media/FCtzwycFUiuxmcxPF1/giphy.gif />|
+|<a href="https://imgflip.com/gif/2bsue1"><img src="https://i.imgflip.com/2bsue1.gif"/></a>|
+
 
 
 ## Features
