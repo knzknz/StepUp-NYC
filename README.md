@@ -4,9 +4,9 @@
 ## Overview
 An app for NYC Junior High School students interested in accessing information on the competitive specialized High Schools in the City
 
-|testing|
+|School Search|
 |:-------------:|
-|<img src=https://media.giphy.com/media/26DNdoCeEaDUQiqty/giphy.gif>|
+|<img src=https://media.giphy.com/media/FCtzwycFUiuxmcxPF1/giphy.gif>|
 
 
 ## Features
