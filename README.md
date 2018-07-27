@@ -2,7 +2,7 @@
 ### A C4Q Access Code Hackathon Project
 
 ## Overview
-An app for NYC Junior High School students interested in accessing information on the competitive specialized High Schools in the City
+An app for NYC Junior High School students interested in accessing information about the competitive specialized High Schools in the City
 
 ## Inside Look
 <a href="https://imgflip.com/gif/2bsue1"><img src="https://i.imgflip.com/2bsue1.gif"/></a>
